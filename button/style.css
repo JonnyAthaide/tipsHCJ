@@ -1,0 +1,28 @@
+.button-group-simple {
+
+}
+
+.button-group-simple .button-simple {
+    padding: 0 16px;
+    min-height: 32px;
+    font-size: 14px;
+    line-height: 1;
+}
+
+.button-group-simple .button-simple.simple-small {
+    padding: 0 16px;
+    min-height: 32px;
+    font-size: 14px;
+}
+
+.button-group-simple .button-simple.simple-normal {
+    padding: 0 24px;
+    min-height: 44px;
+    font-size: 16px;
+}
+
+.button-group-simple .button-simple.simple-big {
+    padding: 0 32px;
+    min-height: 52px;
+    font-size: 16px;
+}
